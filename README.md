@@ -1,1 +1,1 @@
-Odin Project recipe directories
+Odin Project recipe directory
